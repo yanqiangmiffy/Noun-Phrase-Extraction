@@ -1,0 +1,7 @@
+models/
+wandb/
+user_data/
+nezha/pretrained_models/
+__pycache__/
+.idea/
+data/stopwords-master
